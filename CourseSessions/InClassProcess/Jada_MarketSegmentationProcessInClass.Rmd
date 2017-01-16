@@ -264,38 +264,27 @@ iprint.df(Rotated_Factors_thres, scale=TRUE)
 
 **Answers**
 
-1. Factor 1 relates to status
+1. +Factor 1 relates to status, based on:
    Q1.9 = I see my boat as a status symbol
    Q1.26 = Having a powerful boat is what is most important to me
    Q1.3 = The brand says a lot about who I am
-   
-   Factor 2 relates to recreation
+   + Factor 2 relates to recreation, based on:
    Q1.18 = Boating gives me a feeling of adventure
    Q1.21 = Boating helps me escape from everyday life and relax
    Q1.19 = Boating allows me to experience nature
+   + Factor 3 relates to brand sensitivity
+   + Factor 4 relates to knowledgeability
+   + Factor 5 relates to price sensitivity
    
-   Factor 3 relates to brand sensitivity
+2. We would chose 5 factors
+   + a) Statistical Justification: 5 components have eigenvalues greater than 1 (average)
+   + b) Interpretation Justification: 2 or 3 components so that visualization and interpretation is made easier
+   + c) Business Justification: 4 or 5 factors because each of the top 5 factors described in question 1 above seem to provide different customer preferences or business insights (i.e. little to no overlap).  Brand Sensitivity could arguably have some overlap with status, knowledgeability and/or price sensitivity.
    
-   Factor 4 relates to knowledgeability
-  
-   Factor 5 relates to price sensitivity
-   
-2. We would chose <> factors
+3. The company has different customer types, for example some that care more about status, and some that care more about the actual performance of the boats
 
-   a) Statistical Justification:
-      5 components have eigenvalues greater than 1 (average)
-   
-   b) Interpretation Justification:
-      
-   
-   c) Business Justification:
-*
-*
-*
-*
-*
-*
-*
+4. Adding domain knowledge to the raw data may help to produce a more meaningful model.
+
 
 ## Step 6:  Save factor scores 
 
