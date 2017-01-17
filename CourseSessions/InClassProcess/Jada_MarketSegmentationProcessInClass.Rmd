@@ -523,16 +523,14 @@ iprint.df(round(cluster_profile_ratios-1, 2))
 
 **Answers**
 
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+1. The numbers in the last table are scaled measures of how much each segment differs from the population average for each question (characteristic).  The most informative numbers are the most extreme, in absolute terms.  So if one segment is significantly more (close to 1) or significantly less (close to -1) represented by a given characteristic, it can help differentiate that segment from the other segments.
+
+2. Key Features:
+* Segment 1: Most Stongly (0.42) Q17 "Likely to recommend that brand to others" & Most Strongly Not (-0.35) Q1.2 "Getting the lowest price is more important than the brand"
+* Segment 2: Most Stongly (0.15) Q1.9 "I see my boat as a status symbol" & Most Strongly Not (-0.18) Q17 "Likely to recommend that brand to others"
+* Segment 3: Most Stongly (0.23) Q1.11 "Likely to perform minor repairs on my own" & Most Strongly Not (-0.29) Q1.9 "I see my boat as a status symbol"
+* Segment 4: Most Stongly (0.11) Q11 "Female" & Most Strongly Not (-0.43) Q1.11 "Likely to perform minor repairs on my own"
+* Segment 5: Most Stongly (0.35) Q1.2 "Getting the lowest price is more important than the brand" & Most Strongly Not (-0.18) Q18 "Likely to buy the same brand in the future if you bought a new boat"
 
 ## Step 8: Robustness Analysis
 
